@@ -155,7 +155,7 @@ After pairing, the server will generate a `creds.json` file.
 2. Place it in the **session folder** of your bot:
 
 ```
-NAYAN-WHATSAPP-BOT/session/creds.json
+MAHID-WHATSAPP-BOT/session/creds.json
 ```
 
 > ⚠️ This file contains your WhatsApp credentials. Keep it safe!
